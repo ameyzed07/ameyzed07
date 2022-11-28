@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 📫 How to reach me **aavmate@gmail.com**
+- 📫 How to reach me **aimer07@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
